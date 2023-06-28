@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%
+}
+
+/* GRID ITEMS */
+
+.header {
+    text-align: center;
+    background-color: rgb(14, 39, 61);
+    color: white;
+    padding: 40px;
+}
+
+.main {
+    /* grid-area: main;
+    gap: 10px; */
+}
+
+
+/* RESPONSIVE */
+
+@media screen and (min-width: 768px) {
+    
+}
+
+
+@media screen and (min-width: 992px) {
+    
+}
+
+
+@media screen and (min-width: 1200px) {
+    
+}
